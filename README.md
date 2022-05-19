@@ -1,4 +1,3 @@
-# valou96.github.io
 <html lang="en">
 
 <head>
@@ -36,7 +35,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">DevFolio</a></h1>
+      <h1 class="logo"><a href="index.html"</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -79,8 +78,8 @@
       <div class="table-cell">
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
-          <h1 class="hero-title mb-4">I am Morgan Freeman</h1>
-          <p class="hero-subtitle"><span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+          <h1 class="hero-title mb-4">Chailloux Valentin</h1>
+          <p class="hero-subtitle"><span class="typed" data-typed-items="Android, WebApp, Designer"></span></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
@@ -105,10 +104,10 @@
                     </div>
                     <div class="col-sm-6 col-md-7">
                       <div class="about-info">
-                        <p><span class="title-s">Name: </span> <span>Morgan Freeman</span></p>
-                        <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
-                        <p><span class="title-s">Email: </span> <span>contact@example.com</span></p>
-                        <p><span class="title-s">Phone: </span> <span>(617) 557-0089</span></p>
+                        <p><span class="title-s">Name: </span> <span>Valentin Chailloux</span></p>
+                        <p><span class="title-s">Profile: </span> <span>Developpeur junior</span></p>
+                        <p><span class="title-s">Email: </span> <span>valentinchailloux7@gmail.com</span></p>
+                        <p><span class="title-s">Phone: </span> <span>06.37.09.97.36</span></p>
                       </div>
                     </div>
                   </div>
@@ -185,13 +184,12 @@
             <div class="service-box">
               <div class="service-ico">
                 <span class="ico-circle"><i class="bi bi-briefcase"></i></span>
+                  <href="https://github.com/valou96/ValMaQuizV2"></href>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Web Design</h2>
+                <h2 class="s-title">Application android</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                  A l'aide du tutoriel OpenClassRoom j'ai réalisé ma premiere application mobile de Quiz.
                 </p>
               </div>
             </div>
