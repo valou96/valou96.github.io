@@ -37,7 +37,7 @@
 
       <h1 class="logo"><a href="index.html"</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -183,7 +183,7 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-briefcase"> <href="https://github.com/valou96/ValMaQuizV2"></i></span>
+                <span class="ico-circle"><i class="bi bi-briefcase"></i>< href="https://github.com/valou96/ValMaQuizV2"></span>
               </div>
               <div class="service-content">
                 <h2 class="s-title">Application android</h2>
