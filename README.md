@@ -183,7 +183,7 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-briefcase"></i>< href="https://github.com/valou96/ValMaQuizV2"></span>
+                <a < href="https://github.com/valou96/ValMaQuizV2"><span class="ico-circle"><i class="bi bi-briefcase"></i></span>
               </div>
               <div class="service-content">
                 <h2 class="s-title">Application android</h2>
