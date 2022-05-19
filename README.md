@@ -170,7 +170,7 @@
           <div class="col-sm-12">
             <div class="title-box text-center">
               <h3 class="title-a">
-                Services
+                Mes projets
               </h3>
               <p class="subtitle-a">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -183,7 +183,7 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span id="linkchange">https://valou96.github.io/< class="ico-circle"><i class="bi bi-briefcase"></i></span>
+                <span id="linkchange">https://github.com/valou96/ValMaQuizV2< class="ico-circle"><i class="bi bi-briefcase"></i></span>
               </div>
               <div class="service-content">
                 <h2 class="s-title">Application android</h2>
